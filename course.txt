@@ -1,0 +1,3 @@
+<User Name>          <Password>           <Score>           <Player>             <Winning Percentage>
+1                    1                    1                   1                       1.00                
+1                    1                    1                   1                       1.00                
