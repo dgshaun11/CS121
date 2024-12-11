@@ -2,7 +2,7 @@
 | -------------| ------------- | ------------- |
 | 1 | [FirstCodeWithMe](https://github.com/dgshaun11/CS121/blob/main/weekOne/Firstcodewithme.java) | Program that prints simple things |
 | 2 | [ScannerRectangleArea](https://github.com/dgshaun11/CS121/blob/main/weekTwo/labTwo/ScannerRectangleArea.java)  | Using scanner to output the area of shapes  |
-| 3 | | [SwitchStatements](https://github.com/dgshaun11/CS121/blob/main/weekThree/SwitchStatements.java) | Exploring switch statements |
+| 3 | [SwitchStatements](https://github.com/dgshaun11/CS121/blob/main/weekThree/SwitchStatements.java) | Exploring switch statements |
 | 4 | [AverageRainfall](https://github.com/dgshaun11/CS121/blob/main/weekFour/AverageRainfall.java) | Predicting the average rainfall |
 | 5 | [GuessingGame](https://github.com/dgshaun11/CS121/blob/main/weekFour/GuessingGame.java) | A guessing game |
 | 6 | [MonthlyBudget](https://github.com/dgshaun11/CS121/blob/main/weekFour/MonthlyBudget.java) | A program to help with your monthly budget |
